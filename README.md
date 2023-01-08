@@ -55,7 +55,7 @@ dpkg -i allstar-asterisk-full_1.02-20230108-1_amd64.deb
 
 -----------------------------------------------------------
 
-Code base from https://github.com/pttlink/Asterisk
+Codebase from https://github.com/pttlink/Asterisk
 
 ### Copyright
 
