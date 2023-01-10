@@ -13,9 +13,10 @@ Allstar-Asterisk-Full DEB package for the amd64 architecture
 
 -----------------------------------------------------------
 
-### Added Fix:
+### What is also Added:
 
-* Crash on high number of nodes connection (amd64)
+* Fix for the crash on high number of nodes connection (amd64)
+* Added thread names for easy debugging
 
 -----------------------------------------------------------
 
