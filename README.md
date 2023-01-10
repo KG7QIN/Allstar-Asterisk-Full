@@ -15,8 +15,10 @@ Allstar-Asterisk-Full DEB package for the amd64 architecture
 
 ### What is also Added:
 
-* Fix for the crash on high number of nodes connection (amd64)
+* Fixes for the crash on high number of nodes connection (amd64)
 * Added thread names for easy debugging
+* Fixes an ast_netsock_list memory leak.
+* Initialize offset for adaptive jitter buffer
 
 -----------------------------------------------------------
 
